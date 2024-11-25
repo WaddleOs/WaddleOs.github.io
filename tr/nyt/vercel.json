@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/tr/nyt/quiz.html"
-    }
-  ]
-}
