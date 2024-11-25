@@ -1,0 +1,104 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\quiz2020.com\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/grids-responsive-min.css
+File Name: C:\Downloaded Web Sites\quiz2020.com\ajax\libs\pure\1.0.0\grids-responsive-min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/pure/1.0.0/pure-min.css
+File Name: C:\Downloaded Web Sites\quiz2020.com\ajax\libs\pure\1.0.0\pure-min.css
+Content Type: text/css
+
+Uri: https://quiz2020.com/css/style.css?v=a2
+File Name: C:\Downloaded Web Sites\quiz2020.com\css\style.css
+Content Type: text/css
+
+Uri: https://quiz2020.com/images/common/messenger.png
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\common\messenger.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/common/share.svg
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\common\share.svg
+Content Type: image/svg+xml
+
+Uri: https://quiz2020.com/images/common/social_icons/instagram.png
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\common\social_icons\instagram.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/common/whatsapp.svg
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\common\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://quiz2020.com/images/icons/f27/android-icon-192x192.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-114x114.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-114x114.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-120x120.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-120x120.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-144x144.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-144x144.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-152x152.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-152x152.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-180x180.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-57x57.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-60x60.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-60x60.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-72x72.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-72x72.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/apple-icon-76x76.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\apple-icon-76x76.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/favicon-16x16.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/favicon-32x32.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/images/icons/f27/favicon-96x96.png?v=7
+File Name: C:\Downloaded Web Sites\quiz2020.com\images\icons\f27\favicon-96x96.png
+Content Type: image/png
+
+Uri: https://quiz2020.com/js/combined.js?v=24
+File Name: C:\Downloaded Web Sites\quiz2020.com\js\combined.js
+Content Type: application/javascript
+
+Uri: https://quiz2020.com/js/script.js?c=29
+File Name: C:\Downloaded Web Sites\quiz2020.com\js\script.js
+Content Type: application/javascript
+
+Uri: https://quiz2020.com/manifest.json
+File Name: C:\Downloaded Web Sites\quiz2020.com\manifest.json
+Content Type: application/json
+
+Uri: https://quiz2020.com/tr/nyt/quiz
+File Name: C:\Downloaded Web Sites\quiz2020.com\tr\nyt\quiz.html
+Content Type: text/html
+
+Uri: https://static.cleverpush.com/channel/loader/SferLijT3vP2ue776.js
+File Name: C:\Downloaded Web Sites\quiz2020.com\channel\loader\SferLijT3vP2ue776.js
+Content Type: application/javascript
+

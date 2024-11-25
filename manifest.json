@@ -1,0 +1,42 @@
+{
+    "name": "https://Waddlequs.vercell.app",
+    "icons": [
+        {
+            "src": "/images/icons/f27/apple-icon-57x57.png",
+            "type": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/images/icons/f27/favicon-96x96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/images/icons/f27/apple-icon-144x144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/images/icons/f27/android-icon-192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/icons/f14/icon-512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "short_name": "https://Waddlequs.vercell.app",
+    "theme_color": "",
+    "background_color": "",
+
+    "display": "standalone",
+    "orientation": "portrait",
+
+    "start_url": "/?utm_source=launcher",
+    "url": "/",
+    "manifestUrl": "/manifest.json",
+    "lang": "",
+    "screenshots": []
+}
