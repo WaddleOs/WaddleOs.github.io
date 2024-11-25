@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Başlat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .container {
+      margin-top: 20%;
+    }
+    .button {
+      padding: 10px 20px;
+      font-size: 18px;
+      color: #fff;
+      background-color: #007BFF;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    .button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Quiz'e Hoşgeldiniz!</h1>
+    <button class="button" onclick="startQuiz()">Başlat</button>
+  </div>
+
+  <script>
+    function startQuiz() {
+      // Kullanıcıyı quiz.html sayfasına yönlendirir
+      window.location.href = "tr/nyt/quiz.html";
+    }
+  </script>
+</body>
+</html>
